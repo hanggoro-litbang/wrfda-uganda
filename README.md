@@ -9,3 +9,4 @@ This document contains installation steps and how to run WRF, WRFDA and prepare 
 6. Convert CSV to LittleR format
 7. Running WRFDA 3dvar (sinop)
 8. Running WRFDA 3dvar (temp)
+9. Running WRFDA 3dvar (radar)
